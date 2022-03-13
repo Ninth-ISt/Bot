@@ -1,0 +1,283 @@
+C:\Users\Ninth\source\repos\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+C:\Users\Ninth\source\repos\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninth\source\repos\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+C:\Users\Ninth\source\repos\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+C:\Users\Ninth\source\repos\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Интернет\Telegram_Kuzbot\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CopyComplete
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Users\Ninth\Desktop\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CopyComplete
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учеба\Практика Софт\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CopyComplete
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+D:\Учеба\Практика Софт\Проектирование и разработка ИС\Telegram_Kuzbot0.8\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Users\Ninth\Desktop\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.exe
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.deps.json
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.json
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.runtimeconfig.dev.json
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.AssemblyReference.cache
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfoInputs.cache
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.AssemblyInfo.cs
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.csproj.CoreCompileInputs.cache
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.dll
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.pdb
+C:\Programs\ДЗ\2022 (1)\Практика2\TelegramKuzbot0.9\Telegram_Kuzbot\obj\Debug\netcoreapp3.1\Telegram_Kuzbot.genruntimeconfig.cache
